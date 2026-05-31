@@ -141,7 +141,7 @@ If implemented, the recommendations could help:
 ├── dashboard/
 │   └── opay_performance_fraud.pbix    # Main Power BI dashboard file
 ├── screenshots/
-└── README.md                               # Project documentation & insights
+└── README.md                               # Project documentation & insights```
 
 ---
 ## Author
