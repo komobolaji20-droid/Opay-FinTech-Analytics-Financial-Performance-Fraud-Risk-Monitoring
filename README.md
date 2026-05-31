@@ -143,16 +143,15 @@ If implemented, the recommendations could help:
 ├── screenshots/
 └── README.md                               # Project documentation & insights
 
+---
 ## Author
 
-## 👨‍💻 Author
-
-**Omobolaji Kehinde Zachariah**
+* **Omobolaji Kehinde Zachariah**
 
 Data Analyst | Business Intelligence Analyst | Power BI Developer
 
 Passionate about transforming raw data into actionable business insights through analytics, visualization, and storytelling.
 
-📧 Email: Komobolaji20@gmail.com
-💼 LinkedIn: your_linkedin
-📂 Portfolio: your_portfolio
+ Email:Komobolaji20@gmail.com
+LinkedIn:https://www.linkedin.com/in/omobolaji-kehinde-a53912402
+ Portfolio:https://komobolaji20-droid.github.io/
