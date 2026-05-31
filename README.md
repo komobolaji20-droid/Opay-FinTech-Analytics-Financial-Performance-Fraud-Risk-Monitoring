@@ -20,10 +20,10 @@ By separating the analysis into two strategic layers, this project gives executi
 ##  Dashboard Preview
 
 ### Page 1 — Financial Performance & Transaction Analysis
-![Page 1 Dashboard](screenshots/financial_performance_overview.jpg)
+![Page 1 Dashboard](financial_performance_overview.jpg)
 
 ### Page 2 — Fraud Risk Monitoring
-![Page 2 Dashboard](screenshots/fraud_risk_monitoring.jpg)
+![Page 2 Dashboard](fraud_risk_monitoring.jpg)
 
 ---
 
