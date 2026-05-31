@@ -135,13 +135,12 @@ If implemented, the recommendations could help:
 
 ##  Repository Structure
 
-```text
 ├── data/
 │   └── opay_transaction_data.csv       # Raw transactional dataset (anonymized)
 ├── dashboard/
 │   └── opay_performance_fraud.pbix    # Main Power BI dashboard file
 ├── screenshots/
-└── README.md                               # Project documentation & insights```
+└── README.md                               # Project documentation & insights
 
 ---
 ## Author
